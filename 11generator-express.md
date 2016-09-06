@@ -8,6 +8,9 @@
   ![](/assets/g-e5.png) 选择数据库， 这里选择 **MongoDB**
   ![](/assets/g-e6.png) 选择构建工具， 这里选择 **gulp**
   ![](/assets/g-e7.png) 最后等待安装
-3. 
-4. 
+3. 在运行项目之前，需要启动 **MondoDB** ，新打开一个命令行窗口输入 `mongod` ![](/assets/md.png) 表示**MongodDB**启动成功
+4. 在项目目录下打开命令行工具，输入 `gulp` 
+  ![](/assets/gulp1.png) 
+  这个表示运行成功
+5. 
 
