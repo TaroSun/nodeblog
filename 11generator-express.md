@@ -12,5 +12,6 @@
 4. 在项目目录下打开命令行工具，输入 `gulp` 
   ![](/assets/gulp1.png) 
   这个表示运行成功
-5. 
+5. 打开浏览器输入 `http://localhost:3000/`  
+![](/assets/g-e8.png) 
 
