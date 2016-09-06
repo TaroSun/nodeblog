@@ -6,7 +6,8 @@
     * [1.2.Bower](12bower.md)
     * [1.3.gulp](13gulp.md)
     * [1.4.Yeoman](14yeoman.md)
-    * [1.4.Express](14express.md)
+    * [1.5.Express](14express.md)
+    * [1.6.MongoDB](16mongodb.md)
 * [2.项目初始化](2项目初始化.md)
     * [1.1.generator-express](11generator-express.md)
 

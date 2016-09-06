@@ -9,4 +9,5 @@
   ![](/assets/g-e6.png) 选择构建工具， 这里选择 **gulp**
   ![](/assets/g-e7.png) 最后等待安装
 3. 
+4. 
 
